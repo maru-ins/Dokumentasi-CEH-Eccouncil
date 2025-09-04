@@ -51,6 +51,43 @@
 **6. Perform Email Footprinting**
 - Use eMailTrackerPro (in Windows) 
 
+**7. Footprinting using Various Footprinting Tools**  
+- Recon-ng
+```
+sudo su  
+recon-ng  
+help
+  ---#list query commands
+marketplace install all
+  ---#install all modules in recon-ng
+modules search
+  ---#to search modules after installation
+workspaces
+  ---#command to view the commands related to the workspaces
+workspaces create Workscapacesname
+  ---#example workspaces create CEH 
+workspaces list
+db insert domains
+domain (TEXT) : www.example.com
+notes (TEXT) : ....
+show domains
+```
+Issue modules load brute command to view all the modules related to brute forcing. In this task, we will be using the recon/domains-hosts/brute_hosts module to harvest hosts.
+18
+```
+modules load brute
+modules load recon/domains-hosts/brute_hosts
+run
+show hosts
+```
+To view all the modules associated with the reporting keyword. In this lab, we will save the report in HTML format. So, the module used is reporting/html.
+```
+modules load reporting 
+modules load reporting/html 
+```
+
+
+
 ## 💻 Command / Syntax Penting
 ```bash
 # Tulis contoh command
