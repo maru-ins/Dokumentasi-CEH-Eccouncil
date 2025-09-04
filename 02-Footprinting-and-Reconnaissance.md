@@ -49,7 +49,7 @@
   - [Traceroute NG](https://www.solarwinds.com)
 
 **6. Perform Email Footprinting**
-- Use eMailTrackerPro (in Windows) 
+- Use [eMailTrackerPro](https://emailtrackerpro.en.softonic.com/) (in Windows) 
 
 **7. Footprinting using Various Footprinting Tools**  
 - Recon-ng
