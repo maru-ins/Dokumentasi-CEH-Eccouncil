@@ -68,8 +68,8 @@ workspaces create Workscapacesname
   ---#example workspaces create CEH 
 workspaces list
 db insert domains
-domain (TEXT) : www.example.com
-notes (TEXT) : ....
+---#domain (TEXT) : www.example.com
+---#notes (TEXT) : ....
 show domains
 ```
 Issue modules load brute command to view all the modules related to brute forcing. In this task, we will be using the recon/domains-hosts/brute_hosts module to harvest hosts.
