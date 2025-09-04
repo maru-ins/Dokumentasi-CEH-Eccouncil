@@ -1,4 +1,4 @@
-# 📘 Catatan Sertifikasi CEH v13
+# 📘 CEH v13
 
 Repositori ini berisi catatan pribadi saya selama persiapan **Certified Ethical Hacker (CEH v13)**.  
 Setiap modul punya file terpisah agar lebih mudah diakses.
