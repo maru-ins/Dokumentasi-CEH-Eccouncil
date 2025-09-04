@@ -1,7 +1,7 @@
 # 📘 02 Footprinting and Reconnaissance
 
 ## 🎯 Konsep Utama
-- [Tulis ringkasan konsep di sini]
+- Reconnaissance adalah proses mencari informasi awal tentang target sebelum menyerang. Informasi ini dipakai penyerang untuk memahami sistem, menentukan cara serangan, dan menemukan celah yang bisa dimanfaatkan.
 
 ## 🛠️ Tools yang Digunakan
 
