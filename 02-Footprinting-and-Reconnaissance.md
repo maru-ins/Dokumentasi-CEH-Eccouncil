@@ -5,14 +5,21 @@
 
 ## 🛠️ Tools yang Digunakan
 1. Find Domain's, Subdomains & Host
-- Netcraft (https://www.netcraft.com)
-- DNSdumpster (https://dnsdumpster.com)
+  - Netcraft (https://www.netcraft.com)
+  - DNSdumpster (https://dnsdumpster.com)<br />
 2. Gather Personal Information from various social networking
-- Sherlock (Terminal) :
-  | sudo su
-  | sherlock "Target Name"
-- Social Searcher (https://www.social-searcher.com)
-  Gather target company from Social networking 
+  - Sherlock (Terminal) : <br />
+    | sudo su <br />
+    | sherlock "Target Name"
+  - Social Searcher (https://www.social-searcher.com) <br />
+    Gather target company from Social networking.<br />
+3. Lookup Hostname, IP Address, or Domains.
+  - Whois (This protocol listens to requests on port 43 (TCP)<br />
+    | Whois (http://whois.domaintools.com)<br />
+    or <br />
+    | SmartWhois (https://www.tamos.com)<br />
+    | Batch IP Coverter (http://www.sabsoft.com)<br />
+4. Perform DNS Footprinting.
 
 ## 💻 Command / Syntax Penting
 ```bash
