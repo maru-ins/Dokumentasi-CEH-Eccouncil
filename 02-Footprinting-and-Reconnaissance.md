@@ -20,6 +20,13 @@
     | SmartWhois (https://www.tamos.com)<br />
     | Batch IP Coverter (http://www.sabsoft.com)<br />
 4. Perform DNS Footprinting.
+- NS Lookup<br />
+    |nslookuop <br />
+    |set type=a / type=cname
+- NSlookup Online (http://www.kloth.net/services/nslookup.php)
+  
+  
+  
 
 ## 💻 Command / Syntax Penting
 ```bash
